@@ -35,3 +35,8 @@ GUI Framework: Tkinter
 Database: SQLite
 
 Libraries: sqlite3, tkinter
+
+
+https://github.com/user-attachments/assets/10a9c162-5c41-4532-8bc5-9e9eb68e2de9
+
+
