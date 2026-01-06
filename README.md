@@ -3,7 +3,7 @@
 A Python-based Blood Bank Management System built using Tkinter for the graphical user interface and SQLite for database management. This application helps efficiently manage blood donor records, blood inventory, and blood requests through a simple and user-friendly interface.
 
 📌 Project Overview
-
+ 
 The Blood Bank Management System is designed to streamline blood bank operations by maintaining accurate donor details and inventory records. It reduces manual effort, minimizes errors, and ensures quick access to blood availability information during emergencies.
 
 The system provides an intuitive GUI with dropdowns and forms that allow users to easily add, update, and retrieve blood-related data.
